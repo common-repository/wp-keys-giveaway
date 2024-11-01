@@ -1,0 +1,13 @@
+.keys{
+	text-align: center;
+}
+
+.keys p.big{
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.keys p.key{
+	font-size: 150%;
+	font-weight: bold;
+}
